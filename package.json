@@ -1,10 +1,10 @@
 {
-  "name": "encom-boardroom",
+  "name": "blake-boardroom",
   "version": "0.10.7",
-  "description": "encom-boardroom",
+  "description": "blake-boardroom",
   "main": "index.html",
   "dependencies": {
-    "encom-globe": "*",
+    "blake-globe": "*",
     "event-source": "~0.1.0",
     "express": "~4.3.0",
     "github-timeline-stream": "*",
